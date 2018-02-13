@@ -1,0 +1,19 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "node friend finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericgoldstein/Friend-Finder.git"
+  },
+  "author": "Eric Goldstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericgoldstein/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/ericgoldstein/Friend-Finder#readme"
+}
