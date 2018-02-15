@@ -4,7 +4,7 @@ var friends = [ {
     "scores" : [5,4,2,5,1,1,2,1,3,5]
 }, {
     "name" : "Jackie",
-    "photo" : "http://science-all.com/images/wallpapers/girl-pictures/girl-pictures-23.jpg",
+    "photo" : "http://lemerg.com/data/wallpapers/37/611556.jpg",
     "scores" : [3,4,2,4,4,1,1,2,3,4]
 }, {
     "name" : "Tom",
@@ -28,7 +28,7 @@ var friends = [ {
     "scores" : [3,4,2,4,4,1,1,2,3,4]
 }, {
     "name" : "Janet",
-    "photo" : "http://kelseyedwardsphoto.com/images/gallery/Sports/74_088_FAVS_MAY_0511.jpg",
+    "photo" : "https://i.ytimg.com/vi/xgEvB8aYiFM/hqdefault.jpg",
     "scores" : [5,4,2,5,1,1,2,1,3,5]
 }, {
     "name" : "Albert",
@@ -40,11 +40,11 @@ var friends = [ {
     "scores" : [1,3,3,1,2,4,4,1,3,1]
 }, {
     "name" : "Rob",
-    "photo" : "http://d236bkdxj385sg.cloudfront.net/wp-content/uploads/2012/02/brian-white.jpg",
+    "photo" : "https://i.pinimg.com/736x/68/47/2d/68472d65a7cb03a84265f3d044d496c7--sexy-men-hot-men.jpg",
     "scores" : [5,2,4,3,3,2,1,3,3,4]
 }, {
     "name" : "Jenni",
-    "photo" : "http://benhairstyle.com/wp-content/uploads/2014/10/beautiful_hairstyles_for_young_women.jpg",
+    "photo" : "http://7-themes.com/data_images/out/65/6992304-pretty-girls-wallpaper-widescreen.jpg",
     "scores" : [1,1,1,1,1,1,1,1,1,1]
 }, {
     "name" : "Charu",
