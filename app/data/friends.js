@@ -4,7 +4,7 @@ var friends = [ {
     "scores" : [5,4,2,5,1,1,2,1,3,5]
 }, {
     "name" : "Jackie",
-    "photo" : "http://lemerg.com/data/wallpapers/37/611556.jpg",
+    "photo" : "/611556.jpg",
     "scores" : [3,4,2,4,4,1,1,2,3,4]
 }, {
     "name" : "Tom",
